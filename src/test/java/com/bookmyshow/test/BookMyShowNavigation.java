@@ -12,10 +12,6 @@ import org.testng.annotations.Test;
 import com.aventstack.extentreports.Status;
 import com.bookmyshow.base.Testbase;
 
-/**
- * @author Kedar
- *
- */
 public class BookMyShowNavigation extends Testbase{
 	
 	@Test
